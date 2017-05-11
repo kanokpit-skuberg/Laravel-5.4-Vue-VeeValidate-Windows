@@ -1,1 +1,1 @@
-# Laravel-5.4-with-Vue-and-Vee-Validate-Windows-
+# Laravel-5.4 with Vue and Vee Validate on Windows
