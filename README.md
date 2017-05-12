@@ -1,7 +1,6 @@
 Laravel-5.4 with Vue and Vee Validate on Windows
 ----------------------------------------
-1.	Install Laravel by run cmd:
-	composer create-project — prefer-dist laravel/laravel Laravee
+1.	composer create-project --prefer-dist laravel/laravel Laravee
 
 2.	cd Laravee
 
